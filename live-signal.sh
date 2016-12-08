@@ -1,0 +1,3 @@
+#!/usr/bin/bash
+watch -n 1 "awk 'NR==3 {print \$3 \"00 %\"}''' /proc/net/wireless"
+
