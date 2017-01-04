@@ -1,3 +1,3 @@
 #!/bin/bash
- feh  --bg-scale '/home/foibles/elephant.jpg'
+ feh  --bg-scale '/home/foible/elephant.jpg'
 
