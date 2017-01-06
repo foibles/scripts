@@ -1,0 +1,26 @@
+# An auction file may contain any line that is valid
+# in a configuration file (see sample_config.txt for
+# details), plus it may also have auction lines.
+#
+# An auction line contains an auction number, optionally
+# followed by a price.  If a price isn't specified, the
+# price used is the same as the previous auction line.
+#
+# You should have one auction file for each type of item
+# you are bidding on, so that you can change the quantity,
+# username, or other options to suit the item you are
+# bidding on.  For instance, you may want to buy up to 10
+# laser print cartridges, but only one digital camera.
+
+
+#quantity = 1
+# 15 postage
+#291960888491 50
+
+#quantity = 1
+# postage 15
+#222335667172 50
+
+#quanitty = 1
+# postage 15
+#112229481617 70
