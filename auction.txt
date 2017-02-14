@@ -13,14 +13,7 @@
 # laser print cartridges, but only one digital camera.
 
 
-#quantity = 1
-# 15 postage
-#291960888491 50
+quantity = 1
 
-#quantity = 1
-# postage 15
-#222335667172 50
+#gedore spanners
 
-#quanitty = 1
-# postage 15
-#112229481617 70
